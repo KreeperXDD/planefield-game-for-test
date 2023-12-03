@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ShipPrefab
+  m_EditorClassIdentifier: 
+  m_GroupName: ShipPrefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: be08118ad6db5334683d11bdb70b7dc8
+  m_SerializeEntries:
+  - m_GUID: c14b062dd10f87d48b346d0bb19ea648
+    m_Address: ShipPrefab/EnemyShip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 56d0be7d799f1ae4a90d96174b74f68a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5bde18e2dc5377549b0367c0ac76304d, type: 2}
+    - {fileID: 11400000, guid: b2c9e612532324c4ea29a5c02c1df64b, type: 2}
